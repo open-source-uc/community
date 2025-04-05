@@ -1,5 +1,5 @@
 ---
-name: Nueva Actividad
+name: 🎉 Nueva Actividad
 about: Utiliza este template para planificar tu actividad.
 title: NOMBRE DE LA ACTIVIDAD - UBICACIÓN | DD/MM/YYYY
 labels: ''
